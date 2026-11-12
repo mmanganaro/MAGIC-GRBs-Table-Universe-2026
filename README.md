@@ -1,5 +1,5 @@
 # MAGIC-GRBs-Table-Universe-2026
-Table 1 of the paper "Gamma-ry Bursts Observations with The MAGIC Florian Goebel Telescopes".
+Table 1 of the paper "Gamma-ry Bursts Observations with The MAGIC Florian Goebel Telescopes".  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24177932.svg)](https://doi.org/10.5281/zenodo.24177932)
 
 
 # MAGIC observations of gamma-ray bursts (2005–2026)
