@@ -1,0 +1,30 @@
+{
+  "title": "MAGIC Gamma-Ray Burst Observations: A Compilation of Published Results",
+  "description": "A comprehensive compilation of gamma-ray burst observations performed by the MAGIC telescopes, including redshifts, observation delays, observation durations, energy ranges, flux measurements, upper limits, zenith angles, GRB classifications and detection statuses. The dataset is provided in machine-readable ASCII and LaTeX formats, together with a human-readable table and links to the original publications through the NASA Astrophysics Data System (ADS). This dataset accompanies a review of MAGIC gamma-ray burst observations.",
+  "creators": [
+    {
+      "name": "Supanc, Martina",
+      "affiliation": "Faculty of Physics, University of Rijeka",
+      "orcid": "0009-0001-0487-4712"
+    },
+    {
+      "name": "Manganaro, Marina",
+      "affiliation": "Faculty of Physics, University of Rijeka",
+      "orcid": "0000-0002-9880-5039"
+    }
+  ],
+  "upload_type": "dataset",
+  "access_right": "open",
+  "version": "1.0.0",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "MAGIC",
+    "Gamma-ray bursts",
+    "GRB",
+    "Very high energy gamma rays",
+    "VHE",
+    "Gamma-ray astronomy",
+    "Astrophysics",
+    "Imaging atmospheric Cherenkov telescopes"
+  ]
+}
